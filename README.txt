@@ -4,7 +4,7 @@
 Credits:
 
 	Images:
-		Kathmandu University (unsplash.com)
+		Kathmandu University
 
 	Icons:
 		Font Awesome (fontawesome.io)
