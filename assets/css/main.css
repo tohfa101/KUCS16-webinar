@@ -323,6 +323,15 @@ blockquote {
   margin: 0 0 2em 0;
   padding: 0.5em 0 0.5em 2em; }
 
+p.subtitle {
+    font-style: italic;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+    display: block;
+    line-height: 1;
+}
+
 code {
   background: rgba(255, 255, 255, 0.125);
   border-radius: 6px;
